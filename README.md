@@ -1,4 +1,4 @@
-# SPIDER
+# SPIDR
 ## Surface Peripheral Injection, Dissemination, and Reconnaissance
 
 Three wireless interfaces (three external via USB PiHAT):
