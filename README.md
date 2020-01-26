@@ -41,11 +41,34 @@ Three wireless interfaces (three external via USB PiHAT):
     Potential for ad-hoc networking
 * https://www.greycampus.com/blog/information-security/top-wireless-hacking-tools
     List of various wireless attacks
+* https://www.offensive-security.com/kali-linux-arm-images/#1493408272250-e17e9049-9ce8
+    Kali Linux for Raspberry Pi (initial image)
 * https://github.com/mame82/P4wnP1_aloa
     RPi toolkit including WiFi, Bluetooth, Ethernet, and USB attack vectors
 * https://github.com/aircrack-ng/mdk4
     Wireless dauth/spoofing/jamming toolkit
 * https://www.aircrack-ng.org/doku.php?id=airodump-ng
     Wireless packet capture
-
-
+    
+    
+## Hardware
+* Raspbery Pi USB Hat
+    https://www.amazon.com/MakerSpot-Stackable-Raspberry-Connector-Bluetooth/dp/B01IT1TLFQ/
+* Raspberry Pi Zero
+    https://www.canakit.com/raspberry-pi-zero.html
+* 32GB Class 10 Micro SD card
+    https://www.amazon.com/dp/B07N73LB4T/ref=twister_B07WDD1WXK
+* Micro 2.4G/5G WiFi Adaptor with antenna connection
+    https://www.amazon.com/Adapter-600Mbps-Desktop-ANEWKODI-External/dp/B07D2YDYPF
+* 6in SMA jumper
+    https://www.amazon.com/ALLiSHOP-Pigtail-Extension-Assembly-Wireless/dp/B07Z3FHQ5G
+* 9dBi High Gain 2.4G/5G Antenna
+    https://www.amazon.com/TECHTOO-Antenna-Connector-Wireless-Extender/dp/B00NVFKBWI
+* 5000mAh 3.7v LiIon Battery
+    https://www.amazon.com/5000mAh-battery-Rechargeable-Lithium-Connector/dp/B07BTSDPVQ
+* 3.7v to 5v upconverter
+    https://www.amazon.com/Onyehn-Lithium-Battery-Protection-Charger/dp/B07D3SQYKJ
+* Micro USB to Male USB converter
+    https://www.amazon.com/UCEC-USB-2-0-Adapter-Male/dp/B00TAM0MZW
+* GPS/GSM Raspberry Pi Hat
+    https://www.amazon.com/dp/B076CPX4NN
