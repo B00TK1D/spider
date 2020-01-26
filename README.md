@@ -3,7 +3,7 @@
 
 Three wireless interfaces (three external via USB PiHAT):
 
-1. Mesh Network
+### 1. Mesh Network
 * Provides mesh WiFi network connected to other SPIDERs - SPIDER-web
 * Solely an internal network - no external devices connect to mesh
 * Potential for centralized C2 node which provides uplink
@@ -13,7 +13,7 @@ Three wireless interfaces (three external via USB PiHAT):
 * Potential for any node attaining uplink to advertize connection and become new mesh-wide uplink
 * Requires reporting back to central node
 
-2. Scanning
+### 2. Scanning
 * Monitor mode - always passive
 * Constantly scanning using airodump-ng
 * Two levels of logging - full and breif
@@ -26,7 +26,7 @@ Three wireless interfaces (three external via USB PiHAT):
   * Transmits only summaries of packet information (Time last seen for all BSSIDs and SSIDs, probe requests, beacon strength, etc.) at normal time intervals
   * Generates ~ 10KB per minute per node, but rate decreases over time (10 minutes yeilds ~30KB total)
 
-3. Deauth / KARMA / Social Engineering / Alerts
+### 3. Deauth / KARMA / Social Engineering / Alerts
 * Used for active effects - Deauth / Social Engineering / KARMA attacks
 * If public alert system is needed, this interface can be used to create the public network which is used to broadcast messages
 
